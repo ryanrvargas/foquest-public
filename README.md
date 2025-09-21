@@ -10,11 +10,10 @@ FoQuest is to help those who struggle with finishing projects, both school and p
 
 ## 👥 Team
 - **Communication:** Discord, iMessage, Email 
-- **Team Members:** Omari, Ryan, Delsin, Harrison, Haley, Jadon
 - **Team Roles:**
   - Product Manager : Omari
   - Lead Developer : Ryan
-  - Developer : Delsin, Harrison, Haley, Jadon
+  - Developers : Delsin, Harrison, Haley, Jadon
 
 ## 💻 Tech Setup
 - **Platform:** Web App 
@@ -24,3 +23,6 @@ FoQuest is to help those who struggle with finishing projects, both school and p
 | Python          | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |  
 | React           | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) |  
 | TensorFlow      | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) |  
+
+## Created by:
+- Omari, Delsin, Harrison, Haley, Jadon, Ryan
