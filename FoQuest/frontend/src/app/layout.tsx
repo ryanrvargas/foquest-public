@@ -1,10 +1,11 @@
+import React from "react";
 import "./globals.css";
+import { UserProvider } from "@/contexts/UserContext";
 
 export const metadata = {
   title: "FoQuest",
   description: "FoQuest start page",
 };
-
 
 export default function RootLayout({
   children,
@@ -13,7 +14,11 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body>{children}</body>
+      <body>
+        <UserProvider>
+          {children}
+        </UserProvider>
+      </body>
     </html>
   );
 }
